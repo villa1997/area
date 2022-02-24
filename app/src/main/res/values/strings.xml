@@ -10,4 +10,5 @@
     <string name="alturaUno">Altura Uno</string>
     <string name="clearValues">Limpiar</string>
     <string name="valorAlturaUno">0</string>
+    <string name="searchText">Consulta</string>
 </resources>
